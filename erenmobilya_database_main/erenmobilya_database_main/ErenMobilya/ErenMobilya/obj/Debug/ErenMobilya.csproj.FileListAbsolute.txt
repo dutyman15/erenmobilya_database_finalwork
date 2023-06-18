@@ -1,0 +1,64 @@
+C:\Users\CesiR\Desktop\AltinYedek\AltinYedek\bin\Debug\AltinYedek.exe.config
+C:\Users\CesiR\Desktop\AltinYedek\AltinYedek\bin\Debug\AltinYedek.exe
+C:\Users\CesiR\Desktop\AltinYedek\AltinYedek\bin\Debug\AltinYedek.pdb
+C:\Users\CesiR\Desktop\AltinYedek\AltinYedek\obj\Debug\AltinYedek.csproj.AssemblyReference.cache
+C:\Users\CesiR\Desktop\AltinYedek\AltinYedek\obj\Debug\AltinYedek.Properties.Resources.resources
+C:\Users\CesiR\Desktop\AltinYedek\AltinYedek\obj\Debug\AltinYedek.AnaForm.resources
+C:\Users\CesiR\Desktop\AltinYedek\AltinYedek\obj\Debug\AltinYedek.UI.FrmMusteri.resources
+C:\Users\CesiR\Desktop\AltinYedek\AltinYedek\obj\Debug\AltinYedek.UI.FrmOdeme.resources
+C:\Users\CesiR\Desktop\AltinYedek\AltinYedek\obj\Debug\AltinYedek.UI.FrmSatis.resources
+C:\Users\CesiR\Desktop\AltinYedek\AltinYedek\obj\Debug\AltinYedek.UI.FrmUrun.resources
+C:\Users\CesiR\Desktop\AltinYedek\AltinYedek\obj\Debug\AltinYedek.csproj.GenerateResource.cache
+C:\Users\CesiR\Desktop\AltinYedek\AltinYedek\obj\Debug\AltinYedek.csproj.CoreCompileInputs.cache
+C:\Users\CesiR\Desktop\AltinYedek\AltinYedek\obj\Debug\AltinYedek.exe
+C:\Users\CesiR\Desktop\AltinYedek\AltinYedek\obj\Debug\AltinYedek.pdb
+C:\Users\CesiR\Desktop\AltinYedek\AltinYedek\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\CesiR\Desktop\AltinYedek\AltinYedek\bin\Debug\Google.Protobuf.dll
+C:\Users\CesiR\Desktop\AltinYedek\AltinYedek\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\CesiR\Desktop\AltinYedek\AltinYedek\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\CesiR\Desktop\AltinYedek\AltinYedek\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\CesiR\Desktop\AltinYedek\AltinYedek\bin\Debug\MySql.Data.dll
+C:\Users\CesiR\Desktop\AltinYedek\AltinYedek\bin\Debug\System.Buffers.dll
+C:\Users\CesiR\Desktop\AltinYedek\AltinYedek\bin\Debug\System.IO.Pipelines.dll
+C:\Users\CesiR\Desktop\AltinYedek\AltinYedek\bin\Debug\System.Memory.dll
+C:\Users\CesiR\Desktop\AltinYedek\AltinYedek\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\CesiR\Desktop\AltinYedek\AltinYedek\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\CesiR\Desktop\AltinYedek\AltinYedek\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\CesiR\Desktop\AltinYedek\AltinYedek\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\CesiR\Desktop\AltinYedek\AltinYedek\bin\Debug\Google.Protobuf.pdb
+C:\Users\CesiR\Desktop\AltinYedek\AltinYedek\bin\Debug\Google.Protobuf.xml
+C:\Users\CesiR\Desktop\AltinYedek\AltinYedek\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\CesiR\Desktop\AltinYedek\AltinYedek\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\CesiR\Desktop\AltinYedek\AltinYedek\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\CesiR\Desktop\AltinYedek\AltinYedek\bin\Debug\MySql.Data.xml
+C:\Users\CesiR\Desktop\AltinYedek\AltinYedek\bin\Debug\System.Buffers.xml
+C:\Users\CesiR\Desktop\AltinYedek\AltinYedek\bin\Debug\System.IO.Pipelines.xml
+C:\Users\CesiR\Desktop\AltinYedek\AltinYedek\bin\Debug\System.Memory.xml
+C:\Users\CesiR\Desktop\AltinYedek\AltinYedek\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\CesiR\Desktop\AltinYedek\AltinYedek\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\CesiR\Desktop\AltinYedek\AltinYedek\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\CesiR\Desktop\AltinYedek\AltinYedek\obj\Debug\AltinYedek.csproj.CopyComplete
+C:\Users\CesiR\Desktop\AltinYedek\AltinYedek\obj\Debug\AltinYedek.UI.Müşteriler.resources
+C:\Users\CesiR\Desktop\AltinYedek\AltinYedek\obj\Debug\AltinYedek.UI.Ürünler.resources
+C:\Users\msi-nb\Downloads\database-auto-spare-partss-main\database-auto-spare-partss-main\AltinYedek\AltinYedek\obj\Debug\AltinYedek.csproj.AssemblyReference.cache
+C:\Users\msi-nb\Downloads\database-auto-spare-partss-main\database-auto-spare-partss-main\AltinYedek\AltinYedek\obj\Debug\AltinYedek.Properties.Resources.resources
+C:\Users\msi-nb\Downloads\database-auto-spare-partss-main\database-auto-spare-partss-main\AltinYedek\AltinYedek\obj\Debug\AltinYedek.AnaForm.resources
+C:\Users\msi-nb\Downloads\database-auto-spare-partss-main\database-auto-spare-partss-main\AltinYedek\AltinYedek\obj\Debug\AltinYedek.UI.FrmMusteri.resources
+C:\Users\msi-nb\Downloads\database-auto-spare-partss-main\database-auto-spare-partss-main\AltinYedek\AltinYedek\obj\Debug\AltinYedek.UI.FrmOdeme.resources
+C:\Users\msi-nb\Downloads\database-auto-spare-partss-main\database-auto-spare-partss-main\AltinYedek\AltinYedek\obj\Debug\AltinYedek.UI.FrmSatis.resources
+C:\Users\msi-nb\Downloads\database-auto-spare-partss-main\database-auto-spare-partss-main\AltinYedek\AltinYedek\obj\Debug\AltinYedek.UI.FrmUrun.resources
+C:\Users\msi-nb\Downloads\database-auto-spare-partss-main\database-auto-spare-partss-main\AltinYedek\AltinYedek\obj\Debug\AltinYedek.UI.Müşteriler.resources
+C:\Users\msi-nb\Downloads\database-auto-spare-partss-main\database-auto-spare-partss-main\AltinYedek\AltinYedek\obj\Debug\AltinYedek.UI.Ürünler.resources
+C:\Users\msi-nb\Downloads\database-auto-spare-partss-main\database-auto-spare-partss-main\AltinYedek\AltinYedek\obj\Debug\AltinYedek.csproj.GenerateResource.cache
+C:\Users\msi-nb\Downloads\database-auto-spare-partss-main\database-auto-spare-partss-main\AltinYedek\AltinYedek\obj\Debug\AltinYedek.csproj.CoreCompileInputs.cache
+C:\Users\msi-nb\Desktop\Veri Tabanı II\erenmobilya_database_main\erenmobilya_database_main\ErenMobilya\ErenMobilya\obj\Debug\ErenMobilya.csproj.AssemblyReference.cache
+C:\Users\msi-nb\Desktop\Veri Tabanı II\erenmobilya_database_main\erenmobilya_database_main\ErenMobilya\ErenMobilya\obj\Debug\ErenMobilya.Properties.Resources.resources
+C:\Users\msi-nb\Desktop\Veri Tabanı II\erenmobilya_database_main\erenmobilya_database_main\ErenMobilya\ErenMobilya\obj\Debug\ErenMobilya.AnaForm.resources
+C:\Users\msi-nb\Desktop\Veri Tabanı II\erenmobilya_database_main\erenmobilya_database_main\ErenMobilya\ErenMobilya\obj\Debug\ErenMobilya.UI.FrmMusteri.resources
+C:\Users\msi-nb\Desktop\Veri Tabanı II\erenmobilya_database_main\erenmobilya_database_main\ErenMobilya\ErenMobilya\obj\Debug\ErenMobilya.UI.FrmOdeme.resources
+C:\Users\msi-nb\Desktop\Veri Tabanı II\erenmobilya_database_main\erenmobilya_database_main\ErenMobilya\ErenMobilya\obj\Debug\ErenMobilya.UI.FrmSatis.resources
+C:\Users\msi-nb\Desktop\Veri Tabanı II\erenmobilya_database_main\erenmobilya_database_main\ErenMobilya\ErenMobilya\obj\Debug\ErenMobilya.UI.FrmUrun.resources
+C:\Users\msi-nb\Desktop\Veri Tabanı II\erenmobilya_database_main\erenmobilya_database_main\ErenMobilya\ErenMobilya\obj\Debug\ErenMobilya.UI.Müşteriler.resources
+C:\Users\msi-nb\Desktop\Veri Tabanı II\erenmobilya_database_main\erenmobilya_database_main\ErenMobilya\ErenMobilya\obj\Debug\ErenMobilyak.UI.Ürünler.resources
+C:\Users\msi-nb\Desktop\Veri Tabanı II\erenmobilya_database_main\erenmobilya_database_main\ErenMobilya\ErenMobilya\obj\Debug\ErenMobilya.csproj.GenerateResource.cache
+C:\Users\msi-nb\Desktop\Veri Tabanı II\erenmobilya_database_main\erenmobilya_database_main\ErenMobilya\ErenMobilya\obj\Debug\ErenMobilya.csproj.CoreCompileInputs.cache
